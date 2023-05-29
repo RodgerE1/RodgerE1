@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodgere1" alt="rodgere1" /></a> </p>
 
-- ⚡ Fun fact **We are doomed.**
+- ⚡ Fun fact **We are all doomed!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,3 +18,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodgere1&" alt="rodgere1" /></p>
 
+https://img.shields.io/youtube/channel/views/UCP-yK-eCpCqcVaqA9iXnPyA?style=social
+
+https://img.shields.io/youtube/channel/subscribers/UCP-yK-eCpCqcVaqA9iXnPyA?style=social
+
+https://img.shields.io/reddit/user-karma/combined/Awkwardashell?style=social
