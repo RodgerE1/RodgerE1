@@ -18,8 +18,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodgere1&" alt="rodgere1" /></p>
 
-https://img.shields.io/youtube/channel/views/UCP-yK-eCpCqcVaqA9iXnPyA?style=social
+<p>
+    <img src="https://img.shields.io/youtube/channel/views/UCP-yK-eCpCqcVaqA9iXnPyA?style=social" alt="YouTube Channel Views"/>
+</p>
 
-https://img.shields.io/youtube/channel/subscribers/UCP-yK-eCpCqcVaqA9iXnPyA?style=social
+<p>
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCP-yK-eCpCqcVaqA9iXnPyA?style=social" alt="YouTube Channel Subscribers"/>
+</p>
 
-https://img.shields.io/reddit/user-karma/combined/Awkwardashell?style=social
+<p>
+    <img src="https://img.shields.io/reddit/user-karma/combined/Awkwardashell?style=social" alt="Reddit User Karma"/>
+</p>
+
